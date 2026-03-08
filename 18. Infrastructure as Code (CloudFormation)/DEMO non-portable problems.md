@@ -1,7 +1,7 @@
 - Amazon Machine Images are unique to a region.
 Template can't be deployed in any other region because another region would use a different AMI ID.
 
-- S3 naming problem (needs tto be unique)
+- S3 naming problem (needs to be unique)
 
 # DO:
 
